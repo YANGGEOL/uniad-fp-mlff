@@ -2,7 +2,9 @@
 
 An enhancement method for UniAD models.
 
-official paper: [A Unified Model for Multi-class Anomaly Detection](https://arxiv.org/abs/2206.03687) 
+Original official paper: [A Unified Model for Multi-class Anomaly Detection](https://arxiv.org/abs/2206.03687) 
+
+Original official code: [GitHub](https://github.com/zhiyuanyou/UniAD)
 
 ## Quick Start
 
