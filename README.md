@@ -28,7 +28,6 @@ pip install -r requirements.txt
   |-- data
       |-- MVTec-AD
           |-- mvtec_anomaly_detection
-          |-- json_vis_decoder
           |-- train.json
           |-- test.json
   ```
@@ -49,11 +48,10 @@ pip install -r requirements.txt
           		|-- train
           	|-- ......
           	|-- pipe_fryum
-          |-- json_vis_decoder
           |-- train.json
           |-- test.json
   ```
-
+  
 - Edit train.json and test.json files similar to the MVTec-AD dataset for model training
 
 #### Train or eval
