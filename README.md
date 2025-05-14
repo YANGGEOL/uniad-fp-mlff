@@ -1,6 +1,6 @@
-# UniAD+
+# UniAD+: An enhancement method for UniAD models
 
-An enhancement method for UniAD models.
+**Feature disturbance pool-based fusion mechanism for  multi-class industrial defect detection**
 
 Original official paper: [A Unified Model for Multi-class Anomaly Detection](https://arxiv.org/abs/2206.03687) 
 
